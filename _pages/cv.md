@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Business Administration with a concentration in Accounting, Summa Cum Laude, The University of Tennessee at Chattanooga, 2015
+* M.S. Data Science, Southern Methodist University, 2017
+* Ph.D in Economics, University of Reading, 2022 (expected)
 
 Work experience
 ======
