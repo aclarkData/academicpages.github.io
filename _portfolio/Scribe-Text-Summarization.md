@@ -4,4 +4,4 @@ excerpt: "Unsupervised machine learning text summarizer<br/><img src='/images/sc
 collection: portfolio
 ---
 
-Unsupervised machine learning graph based text summarizer deployed with Docker on AWS.
+Unsupervised machine learning graph based text summarizer built with python and deployed with Docker on AWS.
