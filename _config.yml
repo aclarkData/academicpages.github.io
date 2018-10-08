@@ -236,7 +236,7 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talks
+      layout: talk
       author_profile: true
       share: true
 
