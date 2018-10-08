@@ -6,7 +6,7 @@ excerpt: 'How can companies be confident that the algorithms they are employing 
 date: 2018-04-19
 venue: 'CIO Insight, 2017'
 paperurl: 'https://www.cioinsight.com/it-management/innovation/machine-learning-audits-in-the-big-data-age.html'
-citation: 'Andrew Clark. (2017). &quot;Machine Learning Audits in the 'Big Data Age'&quot; <i>CIO Insight, 2017</i>.'
+citation: 'Andrew Clark. (2017). &quot;Machine Learning Audits in the Big Data Age&quot; <i>CIO Insight, 2017</i>.'
 ---
 Machine learning—essentially a computer that recognizes patterns without having to be explicitly programmed—is revolutionizing many industries. Machine learning enables us to find answers and unexpected relationships in data that were impossible to find with the “cookbook recipe” style of programming that currently powers our software.
 
