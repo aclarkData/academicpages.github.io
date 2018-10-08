@@ -15,6 +15,13 @@ Education
 * M.S. Data Science, Southern Methodist University, 2017
 * Ph.D. Economics with a concentration in International Monetary Policy, University of Reading, 2022 (expected)
 
+
+Certifications
+======
+* Certified Analytics Professional - Feb 2018 – Present License 11225053
+* American Statistical Association Graduate Statistician - Jan 2018 – Dec 2025
+* AWS Certified Solutions Architect - Associate - Apr 2018 – Apr 2020
+
 Work experience
 ======
 * Principal Machine Learning Auditor
@@ -55,6 +62,9 @@ Skills
   * Unsupervised learning - clustering
   * NLP
 * Economics
+  * Macroeconomics
+  * Monetary Policy
+  * Financial markets
 * Audit
   * Internal Audit
   * Accounting
@@ -80,9 +90,4 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   

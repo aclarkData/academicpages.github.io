@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "The Machine Learning Audit - CRISP-DM Framework"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2018-01-02-the-machine-learning-audit
+excerpt: 'Machine learning is revolutionizing many industries, from banking to manufacturing to social media. This mathematical optimization technique is being used to identify credit card fraud, tag individuals in photos and increase e-commerce sales by recommending products. Machine learning can be summarized as a computer recognizing patterns without explicit programming. For example, in traditional software engineering, the computer must explicitly be programmed via control statements (e.g., if this event happens, then do this), necessitating that the engineer design and implement the series of steps the computer will perform to complete the given task. However, when dealing with mass amounts of correlated data (two or more variables moving together or away from each other, e.g., the relationship between temperature and humidity), human intuition breaks down. With advances in computing power, the abundance of data storage and recent advances in algorithm design, machine learning is increasingly being utilized by corporations to optimize existing operations and add new services, giving forward-thinking, innovative companies a durable competitive advantage. This increased usage helps establish the need for machine learning audits. However, a standard procedure for how to perform a machine learning audit has yet to be created. Using the Cross Industry Standard Process for Data Mining (CRISP-DM) framework may be a viable audit solution.'
+date: 2018-01-02
+venue: 'ISACA Journal Volume 1, 2018'
+paperurl: 'https://www.isaca.org/Journal/archives/2018/Volume-1/Pages/the-machine-learning-audit-crisp-dm-framework.aspx'
+citation: 'Andrew Clark. (2018). &quot;The Machine Learning Audit - CRISP-DM Framework".&quot; <i>ISACA Journal Volumne 1, 2018</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Machine learning is revolutionizing many industries, from banking to manufacturing to social media. This mathematical optimization technique is being used to identify credit card fraud, tag individuals in photos and increase e-commerce sales by recommending products. Machine learning can be summarized as a computer recognizing patterns without explicit programming. For example, in traditional software engineering, the computer must explicitly be programmed via control statements (e.g., if this event happens, then do this), necessitating that the engineer design and implement the series of steps the computer will perform to complete the given task. However, when dealing with mass amounts of correlated data (two or more variables moving together or away from each other, e.g., the relationship between temperature and humidity), human intuition breaks down. With advances in computing power, the abundance of data storage and recent advances in algorithm design, machine learning is increasingly being utilized by corporations to optimize existing operations and add new services, giving forward-thinking, innovative companies a durable competitive advantage. This increased usage helps establish the need for machine learning audits. However, a standard procedure for how to perform a machine learning audit has yet to be created. Using the Cross Industry Standard Process for Data Mining (CRISP-DM) framework may be a viable audit solution.
+[Access paper here](https://www.isaca.org/Journal/archives/2018/Volume-1/Pages/the-machine-learning-audit-crisp-dm-framework.aspx)
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Andrew Clark. (2018). The Machine Learning Audit - CRISP-DM Framework" <i>ISACA Journal Volumne 1, 2018</i>. 1(1).
