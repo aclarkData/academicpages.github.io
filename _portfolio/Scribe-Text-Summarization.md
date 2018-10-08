@@ -1,6 +1,6 @@
 ---
 title: "Scribe Text Summarizer"
-excerpt: "Unsupervised machine learning text summarizer<br/><img src='/images/500x300.png'>"
+excerpt: "Unsupervised machine learning text summarizer<br/><img src='/images/scribe.png'>"
 collection: portfolio
 ---
 
