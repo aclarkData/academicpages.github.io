@@ -1,10 +1,10 @@
 ---
-title: "Machine Learning Audits in the 'Big Data Age'"
+title: "Machine Learning Audits in the Big Data Age"
 collection: publications
 permalink: /publication/2017-04-19-machine-learning-audits-in-the-big-data-age
-excerpt: 'How can companies be confident that the algorithms they are employing are providing the service intended but are not reinforcing policies they did not intend?'
+excerpt: 'How can companies be confident that the algorithms they are employing are providing the service intended but are not reinforcing policies they did not intend'
 date: 2018-04-19
-venue: 'CIO Insight'
+venue: 'CIO Insight, 2017'
 paperurl: 'https://www.cioinsight.com/it-management/innovation/machine-learning-audits-in-the-big-data-age.html'
 citation: 'Andrew Clark. (2017). &quot;Machine Learning Audits in the 'Big Data Age'&quot; <i>CIO Insight, 2017</i>.'
 ---
