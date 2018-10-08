@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Andrew Clark"
   avatar           : "profile.png"
-  bio              : "rincipal Machine Learning Auditor at Capital One | Data Scientist | Economics PhD student"
+  bio              : "Principal Machine Learning Auditor at Capital One | Data Scientist | Economics PhD student"
   location         : "Richmond, Virgina "
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -99,10 +99,10 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/andrew-clark-b326b767/
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "brassatc"
