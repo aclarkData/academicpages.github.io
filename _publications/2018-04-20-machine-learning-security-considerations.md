@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning Security - Considerations and Assurance"
+title: "Machine Learning Security Considerations and Assurance"
 collection: publications
 permalink: /publication/2018-04-20-machine-learning-security-considerations
 excerpt: 'Machine learning security is an emerging concern for companies, as recent research by teams from Google Brain, OpenAI, US Army Research Laboratory and top universities has shown how machine learning models can be manipulated to return results fitting the attacker's desire. One area of significant finding has been in image recognition models.'
