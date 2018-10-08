@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Andrew Clark"
   avatar           : "profile.png"
-  bio              : "Machine Learning Auditor, Data Scientist, and Economics PhD student"
+  bio              : "Machine Learning Auditor | Data Scientist | Economics PhD student"
   location         : "Richmond, Virgina"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  employer         : "Capital One"
+  googlescholar    : 
+  email            : "andrewtaylorclark@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,7 +101,7 @@ author:
   linkedin         : "https://www.linkedin.com/in/andrew-clark-b326b767/"
   orcid            : 
   pinterest        :
-  soundcloud       :
+  soundcloud       : "brassatc"
   stackoverflow    :
   steam            :
   tumblr           :
@@ -211,7 +211,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: False
       comments: true
   # _publications
   - scope:
