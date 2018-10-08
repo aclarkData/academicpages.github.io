@@ -2,9 +2,9 @@
 title: "Reinventing Auditing with Machine Learning"
 collection: presentations
 type: "Presentation"
-permalink: /presentations/2018-09-03-presentations-reinventing-auditing-with-machine-learning.md
+permalink: /presentations/2018-09-03-presentations-reinventing-auditing-with-machine-learning
 venue: "REWORK - AI in Finance Summit"
-date: "2018-09-03"
+date: 2018-09-03
 location: "New York City, New York"
 ---
 
