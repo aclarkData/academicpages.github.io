@@ -1,22 +1,32 @@
 var addressPoints = [
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728638
+    "Chicago, Illinois",
+    41.8755616,
+    -87.6244212
   ],
   [
-    "London, UK",
-    51.5073219,
-    -0.1276473
+    "Las Vegas, Nevada",
+    36.1662859,
+    -115.149225
   ],
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
+    "Austin, Texas",
+    30.2711286,
+    -97.7436995
   ],
   [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
+    "Dallas, Texas",
+    32.7762719,
+    -96.7968559
+  ],
+  [
+    "New York City, New York",
+    40.7308619,
+    -73.9871558
+  ],
+  [
+    "New Orleans, Louisiana",
+    29.9499323,
+    -90.0701156
   ]
 ];
