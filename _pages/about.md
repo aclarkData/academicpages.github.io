@@ -18,3 +18,7 @@ His primary research focuses are:
 3. International monetary policy theory augmented by machine learning (NLP). 
 
 An avid conference speaker, Andrew has appeared as a speaker at MISTI ITAC 2016, ISACA NACACS 2017, 2018, REWORK AI in Finance NYC, and keynoter at MISTI ITAC 2017 presenting on open source audit analytics, machine learning, and emerging technologies.
+
+
+### Disclaimer
+All views or positions expressed on this site are my own and do not necessarily reflect the views of any entity whatsoever with which have been, am now, or will be affiliated with in the future.
