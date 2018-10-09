@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Click here to download resume](/files/AndrewClarkCV.pdf)
+
 Education
 ======
 * B.S. Business Administration with a concentration in Accounting, Summa Cum Laude, The University of Tennessee at Chattanooga, 2015
