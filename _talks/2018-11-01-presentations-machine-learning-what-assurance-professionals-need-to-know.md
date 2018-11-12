@@ -8,7 +8,7 @@ date: 2018-11-01
 location: "Richmond, Virginia"
 ---
 
-Internal Audit is responsible for providing the 3rd line of defense assurance over the effectiveness of controls in mitigating enterprise risks. We are primarily a judgment-based operation, relying on "humanness" to ascertain if risks are sufficiently being mitigated. This sort of environment makes it difficult to employ machine learning, given the ambiguity of decisions and the need for interpretability to back up decisions that were made. However, these limitations give us the ability to become more imaginative, finding unique ways to employ machine learning. In this talk, Andrew will provide two examples of prototypes being used in audit, an unsupervised machine learning exploratory "clustering" environment to provide insight into looking at data in new ways; and a supervised NLP model that classifies audit reports into different classes for use in reporting.
+Machine learning has evolved past an esoteric technique worked on by academics and research institutes into a viable technology being deployed at many companies. Machine learning has been significantly changing the competitive landscape of business models worldwide, contributing to the demise of established business, such as Blockbuster, to creating entirely new businesses, such as algorithmic advertising. This presentation strives to address the questions of what assurance professionals need to know about this technology and how to provide assurance around machine learning implementations and its unique risks.
 
 [Link to slides](https://www.slideshare.net/AndrewClark71/machine-learning-what-assurance-professionals-need-to-know)
 
