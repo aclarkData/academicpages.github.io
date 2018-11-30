@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Andrew Clark"
 title_separator          : "-"
 name                     : &name "Andrew Clark"
-description              : &description "Andrew Clark - Data Scientist - Economics PhD student"
+description              : &description "Andrew Clark - Data Economist - Data Scientist - Economics PhD student"
 url                      : https://aclarkdata.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aclarkdata.github.io"
@@ -81,9 +81,9 @@ analytics:
 author:
   name             : "Andrew Clark"
   avatar           : "profile.png"
-  bio              : "Machine Learning Auditor | Data Scientist | Economics PhD student at the University of Reading"
+  bio              : "Data Econonomist | Data Scientist | Economics PhD student at the University of Reading"
   location         : "Richmond, Virgina"
-  employer         : "Capital One"
+  employer         : "Block Science"
   googlescholar    : 
   email            : "andrewtaylorclark@gmail.com"
   uri              :

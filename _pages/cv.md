@@ -26,7 +26,12 @@ Certifications
 
 Work experience
 ======
-* Principal Machine Learning Auditor
+* Data Economist - December 2018
+  * Block Science - Richmond, Virginia
+  * Data Economist in Research and Development Department
+
+
+* Principal Machine Learning Auditor - September 2017 - November 2018
   * Capital One - Richmond, Virginia
   * Build machine learning applications to reinvent the audit process utilizing Python and AWS. 
   * Establish approaches for auditing and validating machine learning algorithms leveraging OCC 2011-12 and existing guidance along with original research. 
