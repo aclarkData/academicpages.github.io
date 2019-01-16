@@ -27,8 +27,11 @@ Certifications
 Work experience
 ======
 * Data Economist - December 2018
-  * Block Science - Richmond, Virginia
-  * Data Economist in Research and Development Department
+  * BlockScience - Richmond, Virginia
+  * Create ecosystem economic design specifications 
+  * Simulate the designed ecosystem using Python-based methods. 
+  * Employ mathematical engineering technologies to create novel solutions to solve business problems.
+
 
 
 * Principal Machine Learning Auditor - September 2017 - November 2018
