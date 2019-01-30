@@ -26,7 +26,7 @@ Certifications
 
 Work experience
 ======
-* Data Economist - December 2018
+* Data Economist - December 2018 - present
   * BlockScience - Richmond, Virginia
   * Create ecosystem economic design specifications 
   * Simulate the designed ecosystem using Python-based methods. 
@@ -38,7 +38,7 @@ Work experience
   * Capital One - Richmond, Virginia
   * Build machine learning applications to reinvent the audit process utilizing Python and AWS. 
   * Establish approaches for auditing and validating machine learning algorithms leveraging OCC 2011-12 and existing guidance along with original research. 
-  * Create and present departmental wide trainings on machine learning. 
+  * Create and present departmental wide training on machine learning. 
   * Perform machine learning algorithm audits.
 
 
