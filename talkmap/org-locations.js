@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Richmond, Virginia",
+    37.5385087,
+    -77.43428
+  ],
+  [
     "Chicago, Illinois",
     41.8755616,
     -87.6244212
@@ -21,17 +26,12 @@ var addressPoints = [
   ],
   [
     "New York City, New York",
-    40.7308619,
-    -73.9871558
+    40.7127281,
+    -74.0060152
   ],
   [
     "New Orleans, Louisiana",
     29.9499323,
     -90.0701156
-  ],
-  [
-    "Richmond, Virginia",
-    37.5385087,
-    -77.43428
   ]
 ];

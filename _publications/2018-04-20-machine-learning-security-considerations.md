@@ -14,3 +14,4 @@ Machine learning security is an emerging concern for companies, as recent resear
 
 Recommended citation: Andrew Clark. (2018). "Machine Learning Security - Considerations and Assurance" <i>IT Business Net, 2018</i>.
 .
+
