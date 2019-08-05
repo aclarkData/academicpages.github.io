@@ -20,9 +20,24 @@ var addressPoints = [
     -97.7436995
   ],
   [
+    "Tulsa, Oklahoma",
+    36.1556805,
+    -95.9929113
+  ],
+  [
+    "Anaheim, California",
+    33.8347516,
+    -117.911732
+  ],
+  [
     "Dallas, Texas",
     32.7762719,
     -96.7968559
+  ],
+  [
+    "Arlington, Virginia",
+    38.8903961,
+    -77.0841585
   ],
   [
     "New York City, New York",
