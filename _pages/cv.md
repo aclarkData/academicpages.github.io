@@ -26,11 +26,19 @@ Certifications
 
 Work experience
 ======
+* Co-founder and CTO - June 2019 - present
+  * Monitaur - Richmond, Virginia
+  * Build technology team and lead creation of innovative process.
+  * Create machine learning interpretability capabilities.
+  * Provide industry thought leadership on machine learning auditing and risk management. 
+
+
 * Data Economist - December 2018 - present
   * BlockScience - Richmond, Virginia
-  * Create ecosystem economic design specifications
+  * Create ecosystem economic design specifications.
   * Simulate the designed ecosystem using Python-based methods.
   * Employ mathematical engineering technologies to create novel solutions to solve business problems.
+
 
 
 * Principal Machine Learning Auditor - September 2017 - November 2018
