@@ -13,7 +13,7 @@ Andrew Clark is a Data Economist at BlockScience; engineering, research, and dev
 Andrew is co-founded and Chief Technlogy Officer of a machine learning assurance company called
 <a href="https://www.monitaur.ai/">Monitaur</a>. Monitaur solves a key problem that has been preventing wide-spread machine learning adoption: the lack of a holistic approach to machine learning risk management. Monitaur has created a risk management and regulator friendly 'SIEM' system that records all model predictions with an understandable description of why a transaction has occurred.
 
-![](images/Monitaur.png)
+![](images/Monitaur.png =300x300)
 
 
 Andrew received a B.S. in Business Administration with a concentration in Accounting, Summa Cum Laude, from the University of Tennessee at Chattanooga, an M.S. in Data Science from Southern Methodist University, and is a Ph.D. student in Economics at the University of Reading. He also holds the Certified Analytics Professional, American Statistical Association Graduate Statistician, and AWS Certified Solutions Architect - Associate certifications. 
