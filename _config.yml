@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Andrew Clark"
 title_separator          : "-"
 name                     : &name "Andrew Clark"
-description              : &description "Andrew Clark - Data Economist"
+description              : &description "Andrew Clark - Co-founder/CTO"
 url                      : https://aclarkdata.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aclarkdata.github.io"
@@ -81,9 +81,9 @@ analytics:
 author:
   name             : "Andrew Clark"
   avatar           : "profile.png"
-  bio              : "Data Economist | Data Scientist | Economics PhD Candidate"
+  bio              : "Co-Founder/CTO | Data Scientist | Economics PhD Candidate"
   location         : "Richmond, Virgina"
-  employer         : "BlockScience"
+  employer         : 
   googlescholar    : 
   email            : "andrewtaylorclark@gmail.com"
   uri              :
@@ -105,7 +105,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "brassatc"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

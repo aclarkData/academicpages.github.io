@@ -28,7 +28,7 @@ Work experience
 ======
 * Co-founder and CTO - June 2019 - present
   * Monitaur - Richmond, Virginia
-  * Build technology team and lead creation of innovative process.
+  * Build technology team and lead innovation process.
   * Create machine learning interpretability capabilities.
   * Provide industry thought leadership on machine learning auditing and risk management. 
 
