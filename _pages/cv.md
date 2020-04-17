@@ -28,9 +28,9 @@ Work experience
 ======
 * Co-founder and CTO - June 2019 - present
   * Monitaur - Richmond, Virginia
-  * Build technology team and lead innovation process.
-  * Create machine learning interpretability capabilities.
-  * Provide industry thought leadership on machine learning auditing and risk management. 
+  * Build the technology team and lead technical and product roadmaps.
+  * Head of Research and Engineering.
+  * Provide industry thought leadership on machine learning auditing and risk management.
 
 
 * Data Economist - December 2018 - present
@@ -76,6 +76,7 @@ Skills
 * Public Speaking
 * Data Science
 * Machine Learning
+  * Supervised classification and regression
   * Unsupervised learning - clustering
   * NLP
 * Economics
@@ -87,7 +88,6 @@ Skills
   * Accounting
   * IT Audit
   * Audit Analytics
-  * Emerging threats
   * Information Security
 * Statistics
 * Programming
