@@ -22,7 +22,7 @@ Certifications
 ======
 * Certified Analytics Professional - Feb 2018 – Present License 11225053
 * American Statistical Association Graduate Statistician - Jan 2018 – Dec 2025
-* AWS Certified Solutions Architect - Associate - Apr 2018 – Apr 2020
+* AWS Certified Solutions Architect - Associate - Apr 2018 – Apr 2021
 
 Work experience
 ======
@@ -33,7 +33,7 @@ Work experience
   * Provide industry thought leadership on machine learning auditing and risk management.
 
 
-* Data Economist - December 2018 - present
+* Data Economist - December 2018 - present (Advisor capacity January 2020 onwards)
   * BlockScience - Richmond, Virginia
   * Create ecosystem economic design specifications.
   * Simulate the designed ecosystem using Python-based methods.
