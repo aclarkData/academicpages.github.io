@@ -10,14 +10,18 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-<h2>Machine Learning</h2>
+
+<a href="#ML">Machine Learning Publications</a>
+<a href="#Econ">Economics Publications</a>
+
+<p id="ML"><h1>Machine Learning</h1></p>
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
 
 
-<h2>Economics</h2>
-{% for post in site.publicationsEcon reversed %}
+<p id="Econ"><h1>Economics</h1></p>
+{% for post in site.publicationsecon reversed %}
   {% include archive-single.html %}
 {% endfor %}
